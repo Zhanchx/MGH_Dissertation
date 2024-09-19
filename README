@@ -1,0 +1,15 @@
+Submission for MSc Modelling for global health
+
+data - raw input data
+fits - model output rds files
+output- graphical output 
+manuscript - paper and supporting documents
+model - model code
+	case_wastewater_staggered - model using case data and wastewater data 
+	cases - model using only case data
+	wastewater - model using only wastewater data 
+	processing_iar - processing IAR for all 9 regions 
+	processing_latent_infections - processing infections for all 9 regions
+	processing_iar_actualvalues - processing the troughs of IAR
+	processing_rt_actualvalues - processing the peaks for Rt
+	processing_latentinfections_actualvalues - processing daily infections for all 9 regions 
